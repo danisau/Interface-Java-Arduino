@@ -40,7 +40,7 @@ Para poder obtener la conexión entre los IDE de Arduino y Java se utilizó una 
 
 Diagrama
 --------
-
+![Imagen Diagrama Protoboard](java-arduino_bb.jpg"Diagrama")
 
 El siguiente código muestra la manera en que se realizó la conexión entre NetBeans y Arduino.
 
